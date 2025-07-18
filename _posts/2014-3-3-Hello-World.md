@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My new post!
+title: Quantum Superposition (Explained Simply)
 ---
 
-What is Quantum Mechanics??
+Why is Schrödinger's Cat Both Alive and Dead?
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
