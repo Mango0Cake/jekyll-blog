@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantum Superposition (Explained Simply)
+title: The Quantum Cat (Superposition Explained Simply)
 ---
 
 Why is Schrödinger's Cat Both Alive and Dead?
