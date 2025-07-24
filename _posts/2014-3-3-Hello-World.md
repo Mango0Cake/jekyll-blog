@@ -1,3 +1,13 @@
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PQXGXREHSM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PQXGXREHSM');
+</script>
 ---
 layout: post
 title: Why is Schrödinger's Cat Both Alive and Dead? 
