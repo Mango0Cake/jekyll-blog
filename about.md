@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-MangoCake is a Virginia-based programmer with a love for quantum mechanics. She’s passionate about clean code and VR tech. When not coding, she’s exploring the latest in quantum physics and tech trends.
+MangoCake is a Virginia-based programmer with a love for quantum mechanics. She’s passionate about code and VR tech. When not coding, she’s exploring the latest in quantum physics and tech trends.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
