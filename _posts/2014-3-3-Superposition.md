@@ -10,10 +10,10 @@
 </script>
 ---
 
-Why is Schrödinger's Cat Both Alive and Dead? 
+Why is Schrödinger's Cat Both Alive and Dead? 💨
 ---
 
-Superposition and Schrödinger’s Cat: Explained Simply 7.24.25
+Superposition and Schrödinger’s Cat: Explained Simply 07.24.25
 
 
 Superposition is a strange idea in quantum physics. It means something—like an atom—can be in more than one state at the same time. For example, a radioactive atom can both decay (break down) and not decay at the same time... until we check.
