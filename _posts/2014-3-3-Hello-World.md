@@ -9,14 +9,14 @@
   gtag('config', 'G-PQXGXREHSM');
 </script>
 ---
-layout: post
-title: Why is Schrödinger's Cat Both Alive and Dead? 
+
+Why is Schrödinger's Cat Both Alive and Dead? 
 ---
 
-Superposition and Schrödinger’s Cat: Explained Simply, 7.24.25
+Superposition and Schrödinger’s Cat: Explained Simply 7.24.25
 
 
-Superposition is a strange idea from quantum physics. It means something—like an atom—can be in more than one state at the same time. For example, a radioactive atom can both decay (break down) and not decay at the same time... until we check.
+Superposition is a strange idea in quantum physics. It means something—like an atom—can be in more than one state at the same time. For example, a radioactive atom can both decay (break down) and not decay at the same time... until we check.
 
 To show how strange this is, physicist Erwin Schrödinger came up with a thought experiment. Imagine a cat inside a box with a radioactive atom, a Geiger counter (which detects radiation), and a vial of poison. If the atom decays, the Geiger counter clicks, releases the poison, and the cat dies. If the atom doesn't decay, the cat lives.
 
