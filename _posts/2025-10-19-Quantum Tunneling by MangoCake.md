@@ -1,6 +1,12 @@
----
-layout: post
-title: Quantum Tunneling by MangoCake 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PQXGXREHSM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PQXGXREHSM');
+</script>
 ---
 
 Quantum Tunneling Explained 💥
@@ -20,3 +26,41 @@ Inside the Sun, protons dont have enough energy to overcome their repulsion (bec
 Closing Thoughts-
 
 The thing that fascinates me the most is how this topic, Tunneling, is like a little reminder that limits aren't always final. Kind of inspirational, in a way. It just takes the right perspective to find a path through.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
