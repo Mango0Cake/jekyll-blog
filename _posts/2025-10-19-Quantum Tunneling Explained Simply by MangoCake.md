@@ -15,7 +15,7 @@ Quantum Tunneling Explained 💥
 Quantum Tunneling and Nuclear Fusion: Explained Simply 10.19.25
 
 
-In our everyday physical world, if I were to throw an object, let's say a ball, at a wall, it would either, bounce back to me or break the wall (if i threw it really hard). But in the Quantum world, for particles, let's just say it's a different story. Because they act like waves, there is a very, VERY small chance that a particle could "tunnel" through a barrier, even if it doesn't have the adequate amount of every to climb overr. It's basically like if I threw the ball at the wall and found it on the other side, without any interruptions.
+In our everyday physical world, if I were to throw an object, let's say a ball, at a wall, it would either, bounce back to me or break the wall (if i threw it really hard). But in the Quantum world, for particles, let's just say it's a different story. Because they act like waves, there is a very, VERY small chance that a particle could "tunnel" through a barrier, even if it doesn't have the adequate amount of every to climb over. It's basically like if I threw the ball at the wall and found it on the other side, without any interruptions.
 
 But here's the thing- while that ball scenario will probably never be witnessed, Quantum Tunneling isn't impossible. In fact, it happens all the time! Quantum Tunneling, believe it or not, is the reason our Sun shines everyday! 
 
